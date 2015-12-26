@@ -9,6 +9,7 @@ Server usage:
 java NimServer  H  P
 
 H = Host
+
 P = Port
 
 Client usage:
@@ -16,7 +17,11 @@ Client usage:
 java Nim  SH  SP  CH  CP  N
 
 SH = Server host
+
 SP = Server port
+
 CH = Client host
+
 CP = CLient port
+
 N = Player's name
